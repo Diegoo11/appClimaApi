@@ -133,3 +133,6 @@ async function jsonClima(region, unit = 'metric') {
 }
 
 export { jsonClima };
+
+const mejor = 'hacemos bine haci es el amor';
+mejor.plit();
